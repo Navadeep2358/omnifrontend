@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://omnibackend.onrender.com/api/:splat"
+  to = "https://omnibackend-thpx.onrender.com/api/:splat"
   status = 200
   force = true
 
